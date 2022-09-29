@@ -46,7 +46,7 @@ int main(int argc, char *argv[]) {
 	cout << setw(10)<<""<<"16-22 años: "<<g16<<endl;
 	cout << setw(10)<<""<<"23-29 años: "<<g23<<endl;
 	cout << setw(10)<<""<<"30-36 años: "<<g30<<endl;
-	cout << "la hermana de Casco" << endl;
+	cout << " hermana de Casco" << endl;
 	return 0;
 }
 
