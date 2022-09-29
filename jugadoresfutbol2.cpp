@@ -38,15 +38,15 @@ int main(int argc, char *argv[]) {
 		
 	}
 	cout << "SE INFORMA: "<<endl;
-	cout << setw(5)<<""<< "Porc. judadores > 25 años : "<<(m25/cantidadJugadores)*100<<"%"<<endl;
+	cout << setw(5)<<""<< "Porc. judadores > 25 aÃ±os : "<<(m25/cantidadJugadores)*100<<"%"<<endl;
 	cout << setw(5)<<""<< "Cant.defensores > 3 goles : "<<d3<<endl;
 	cout << setw(5)<<""<< "Cantidad  goles  goleador : "<<maximoGoles<<endl;
 	cout << setw(5)<<""<< "Atacante sin goles hechos : "<<sinGoles<<endl;
 	cout << setw(5)<<""<< "Cantidad de goles por edad: "<<endl;
-	cout << setw(10)<<""<<"16-22 años: "<<g16<<endl;
-	cout << setw(10)<<""<<"23-29 años: "<<g23<<endl;
-	cout << setw(10)<<""<<"30-36 años: "<<g30<<endl;
-	cout << "Casco la concha de tu hermana" << endl;
+	cout << setw(10)<<""<<"16-22 aÃ±os: "<<g16<<endl;
+	cout << setw(10)<<""<<"23-29 aÃ±os: "<<g23<<endl;
+	cout << setw(10)<<""<<"30-36 aÃ±os: "<<g30<<endl;
+	cout << "la hermana de Casco" << endl;
 	return 0;
 }
 
